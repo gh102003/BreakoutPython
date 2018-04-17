@@ -1,0 +1,8 @@
+
+__pycache__/paddle.cpython-36.pyc
+__pycache__/brick.cpython-36.pyc
+*.pyc
+.idea/modules.xml
+.idea/misc.xml
+.idea/workspace.xml
+.idea/breakout.iml
